@@ -1,9 +1,7 @@
-# Puente Villena · Visualizador de iluminación
+# LIGHTMAN · Puente Villena
 
-[**Abrir el visualizador interactivo 3D**](https://puente-villena-pixel-lab.ftesen4.chatgpt.site/)
+[**Abrir visualizador interactivo 3D**](https://lightmanshows.github.io/puente-villena-visualizador/)
 
-Explora las perspectivas del puente, reproduce la secuencia rápida o lenta y prueba los efectos con sus opciones de color y velocidad. Disponible en computadora y celular.
+Explora las perspectivas del puente, reproduce la secuencia rápida o lenta y prueba los efectos de túnel con sus opciones de color y velocidad. Disponible en computadora y celular.
 
-[Acceso desde GitHub Pages](https://lightmanshows.github.io/puente-villena-visualizador/)
-
-Este repositorio contiene únicamente la página de acceso. El visualizador permanece alojado en su dirección pública actual; su proyecto no está incluido en este repositorio.
+La presentación aparece directamente dentro de GitHub Pages y conserva esa dirección mientras interactúas. Este repositorio contiene solo la página contenedora; el visualizador continúa en su alojamiento actual y su proyecto no está incluido aquí.
